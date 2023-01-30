@@ -21,6 +21,7 @@ The main goal of this analysis is to create an interactive dashboard that allows
 
 
 📌 Quality Analysis
+
 ☑ Identifying the types of errors and how much percentage they can cause to the product which can help to reduce errors.
 
 ☑  Analyzing errors and types of errors caused by employees.
